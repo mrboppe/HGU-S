@@ -10,6 +10,7 @@ if ($_SERVER['REQUEST_URI'] === "/pages/team.php") {
 
     <div class="" id="teamhead">
       <div class="inner m">
+        <h1>TEAM HGU</h1>
       </div>
     </div>
     <div class="" id="players">

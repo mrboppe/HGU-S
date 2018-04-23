@@ -15,9 +15,6 @@ foreach ($pages as $page) {
 		<link href='https://fonts.googleapis.com/css?family=Work Sans' rel='stylesheet'>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	</head>
-<script type="text/javascript">
-
-</script>
 	<script src="./script/jq.js" charset="utf-8"></script>
 	<script src="./script/live.js" charset="utf-8"></script>
 	<body>
@@ -34,7 +31,9 @@ foreach ($pages as $page) {
 						<button type="button" class="ho"name="community" onclick="window.location.href='/?pages=community'"><b>COMMUNITY</b></button>
 						<button type="button" name="live" id="live"><b>LIVE</b></button>
 						<img src="./img/live.png" id="liveimg">
+						<iframe id="prev" src="http://player.twitch.tv/?channel=mrboppee" height="30%" width="30%" frameborder="0" scrolling="no" allowfullscreen="true" ></iframe>
 					</nav>
+
 				</div>
 				<div class="h r f">
 					<div class="h" id="sok">

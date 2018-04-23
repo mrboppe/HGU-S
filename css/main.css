@@ -118,3 +118,9 @@ footer{
   right: 78px;
   top: 2px;
 }
+#prev{
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: none;
+}

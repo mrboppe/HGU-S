@@ -23,4 +23,10 @@ $(document).ready(function(){
     $("#live").click(function(){
         window.open('https://www.twitch.tv/mrboppee');
     });
+    $("#live").mouseenter(function () {
+      $("#prev").show();
+    });
+    $("#live").mouseleave(function () {
+      $("#prev").hide();
+    });
 });
