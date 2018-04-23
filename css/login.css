@@ -44,3 +44,30 @@ button{
   padding: 10px 0;
   background: #bcbcbc
 }
+@media only screen and (max-width: 1500px) {
+    #loginform {
+          width: 30%;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    #loginform {
+          width: 50%;
+    }
+}
+@media only screen and (max-width: 800px) {
+    #loginform {
+          width: 80%;
+          margin: auto;
+          border: 0;
+          background: #1d1d1b;
+    }
+    p{
+      color: white;
+    }
+    form input{
+      background: white !important;
+    }
+    form button{
+      background: white !important;
+    }
+}

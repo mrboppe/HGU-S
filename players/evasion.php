@@ -39,7 +39,7 @@
 
 <div class="playerbox small">
   <div class="playername">
-    <p>EvasionCSGO</p>
+    <p>Evasion</p>
     <button type="button" class="ho">View Profile</button>
   </div>
   <img src="" class="r" id="evav">

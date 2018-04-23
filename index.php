@@ -33,6 +33,7 @@ foreach ($pages as $page) {
 						<button type="button" class="ho"name="media" onclick="window.location.href='/?pages=media'"><b>MEDIA</b></button>
 						<button type="button" class="ho"name="community" onclick="window.location.href='/?pages=community'"><b>COMMUNITY</b></button>
 						<button type="button" name="live" id="live" onclick="window.location.href='http://twitch.tv/mrboppee'"><b>LIVE</b></button>
+						<img src="./img/live.png" id="liveimg">
 					</nav>
 				</div>
 				<div class="h r f">

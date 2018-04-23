@@ -5,8 +5,6 @@ if ($_SERVER['REQUEST_URI'] === "/pages/team.php") {
 }
 ?>
 <link rel="stylesheet" href="./css/team.css">
-
-
 <title>HGU Team</title>
 <div class="outer" id="teamout">
 

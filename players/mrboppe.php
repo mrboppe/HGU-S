@@ -38,7 +38,7 @@
 ?>
 <div class="playerbox small">
   <div class="playername">
-    <p>MrBoppe</p>
+    <p>Boppe</p>
     <button type="button" class="ho">View Profile</button>
   </div>
   <img src="" class="r" id="mrboppeav">

@@ -17,7 +17,7 @@
     </div>
     <div id="loginform">
       <form class="" action="./inc/login.php" method="post">
-        <p>Username/Email</p>
+        <p>Användarnamn</p>
         <input type="text" name="username">
         <p>Lösenord</p>
         <input type="password" name="password">
