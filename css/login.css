@@ -30,6 +30,7 @@ p{
   margin: 0;
   font-size: 2em;
   color: #1d1d1b;
+  font-family: 'Work Sans';
 }
 button{
   width: 99%;
@@ -43,6 +44,7 @@ button{
   font-size: 2em;
   padding: 10px 0;
   background: #bcbcbc
+  font-family: 'Work Sans';
 }
 @media only screen and (max-width: 1500px) {
     #loginform {

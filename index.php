@@ -12,7 +12,7 @@ foreach ($pages as $page) {
 	<head>
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="./css/main.css">
-		<link rel="icon" href="./img/logo.png">
+		<link href='https://fonts.googleapis.com/css?family=Work Sans' rel='stylesheet'>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	</head>
 <script type="text/javascript">
@@ -32,7 +32,7 @@ foreach ($pages as $page) {
 						<button type="button" class="ho"name="shop" onclick="window.location.href='/?pages=shop'"><b>SHOP</b></button>
 						<button type="button" class="ho"name="media" onclick="window.location.href='/?pages=media'"><b>MEDIA</b></button>
 						<button type="button" class="ho"name="community" onclick="window.location.href='/?pages=community'"><b>COMMUNITY</b></button>
-						<button type="button" name="live" id="live" onclick="window.location.href='http://twitch.tv/mrboppee'"><b>LIVE</b></button>
+						<button type="button" name="live" id="live"><b>LIVE</b></button>
 						<img src="./img/live.png" id="liveimg">
 					</nav>
 				</div>
@@ -41,8 +41,8 @@ foreach ($pages as $page) {
 						<input type="text" name="sok" placeholder="Sök" class="h">
 					</div>
 					<div class="h f" id="rlb">
-						<button type="button" class="ho"name="login" onclick="window.location.href='/login.php'"><b>Logga in</b></button>
-						<button type="button" class="ho"name="register" onclick="window.location.href='/register.php'"><b>Registrera dig</b></button>
+						<button type="button" class="ho"name="login" onclick="window.location.href='/login.php'"><b>LOGGA IN</b></button>
+						<button type="button" class="ho"name="register" onclick="window.location.href='/register.php'"><b>REGISTRERA DIG</b></button>
 					</div>
 				</div>
 			</div>
