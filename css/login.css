@@ -1,0 +1,46 @@
+#logo{
+  height: 15%;
+  margin: 3% 0;
+}
+body,html{
+  text-align:center;
+  background: #1d1d1b;
+}
+#loginform{
+  width: 20%;
+  padding: 25px;
+  margin: auto;
+  border: 3px solid #d8d8d8;
+  border-radius: 15px;
+  background: #ececec;
+}
+form input{
+  width: 99%;
+  padding: 0;
+  margin: 20px auto;
+  border: 2px solid #bdbdbd;
+  border-radius: 15px;
+  background: 0;
+  text-align: center;
+  color: #000;
+  font-size: 2em;
+  padding: 10px 0;
+}
+p{
+  margin: 0;
+  font-size: 2em;
+  color: #1d1d1b;
+}
+button{
+  width: 99%;
+  padding: 0;
+  margin: 20px auto;
+  border: 2px solid #bdbdbd;
+  border-radius: 15px;
+  background: 0;
+  text-align: center;
+  color: #000;
+  font-size: 2em;
+  padding: 10px 0;
+  background: #bcbcbc
+}

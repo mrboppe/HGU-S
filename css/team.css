@@ -1,0 +1,46 @@
+#teamhead{
+  height: 500px;
+}
+.playerbox{
+  padding: 10px;
+  height: 80px;
+  display: flex;
+  position: relative;
+}
+.playerbox img{
+  position: absolute;
+  right: 10px;
+  height: 80%;
+}
+#players{
+  width: 100%;
+  background: -moz-linear-gradient(45deg, #494949 35%, #474747 36%, #1d1d1b 42%, #1d1d1b 50%, #1d1d1b 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, #494949 35%,#474747 36%,#1d1d1b 42%,#1d1d1b 50%,#1d1d1b 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, #494949 35%,#474747 36%,#1d1d1b 42%,#1d1d1b 50%,#1d1d1b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+.player{
+  height: 100px;
+  width: 18%;
+  margin: 40px 1%;
+  background: #959595;
+  border: solid 1px #d1d1d1;
+}
+.playername{
+  width: 100%;
+}
+.playername p{
+  margin: 0;
+  font-size: 25px;
+  height: 20%;
+}
+.playername button{
+  margin: 0;
+  height: 50%;
+  margin: 5% 0;
+}
+.large{
+  display: none;
+}
+.small{
+  display: none;
+}
